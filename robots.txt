@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://artodimiourgies-margaritis.gr/sitemap.xml
